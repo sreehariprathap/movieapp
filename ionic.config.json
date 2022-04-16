@@ -1,0 +1,7 @@
+{
+  "name": "xstream",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
